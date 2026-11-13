@@ -1,0 +1,9 @@
+/target
+**/*.rs.bk
+*.o
+*.bin
+*.img
+*.elf
+*.map
+qemu-*/
+.vscode/
