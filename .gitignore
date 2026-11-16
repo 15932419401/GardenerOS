@@ -7,3 +7,4 @@ target/
 *.map
 qemu-*/
 .vscode/
+!bootloader/opensbi.bin
